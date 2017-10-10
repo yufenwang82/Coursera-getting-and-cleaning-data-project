@@ -13,5 +13,5 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ## 2. The "codebook" pdf enclosed all the function and explaination about how I did the cleanning and analysis
 
-## 3. The final out put is saved as csv named"getting and cleanning data project-tidy data"
+## 3. The final out put is saved as txt named"tidydata.txt"
 
