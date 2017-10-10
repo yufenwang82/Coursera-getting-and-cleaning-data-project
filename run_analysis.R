@@ -79,6 +79,6 @@ names(data)
 
 tidy_data<-aggregate(.~subject_id+activity_id+activity_type,data,FUN='mean')
 head(tidy_data)
-write.csv(tidy_data,file="getting and cleanning data project-tidy data.csv")
+write.table(tidy_data, file = "tidydata.txt",row.name=FALSE)
 
 
